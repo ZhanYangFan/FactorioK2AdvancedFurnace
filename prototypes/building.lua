@@ -165,7 +165,7 @@ data:extend({
       },
     },
     fluid_boxes_off_when_no_fluid_recipe = true,
-    crafting_categories = { "smelting" },
+    crafting_categories = { "smelting","kr-advanced-smelting" },
     crafting_speed = 12,
     ingredient_count = 6,
     module_slots = 4,

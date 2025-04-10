@@ -19,11 +19,3 @@ kr_technologies_icons_path = nil
 kr_remnants_path = nil
 
 
-data:extend({
-  {
-    type = "item-subgroup",
-    name = "smelting-machine-tech",
-    group = "production",
-    order = "zc"
-  }
-})

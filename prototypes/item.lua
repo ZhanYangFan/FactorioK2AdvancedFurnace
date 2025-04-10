@@ -5,7 +5,6 @@ data:extend({
     type = "item",
     name = "kr-advanced-furnace",
     icon = kr_entities_icons_path.."advanced-furnace.png",
-    icon_size = 64,
     subgroup = "smelting-machine",
     order = "c[electric-furnace]-f[advanced-furnace]",
     place_result = "kr-advanced-furnace",
