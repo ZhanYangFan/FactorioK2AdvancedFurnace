@@ -1,8 +1,8 @@
 {
     "name": "AdvancedFurnace",
-    "version": "1.0.0",
+    "version": "2.0.1",
     "title": "Standalone K2 AdvancedFurnace",
-    "author": "Krastor",
+    "author": "None",
     "icon": "thumbnail.png", 
     "description":"将K2的高级电炉独立出来，作为一个模组发布。",
     "factorio_version": "2.0",

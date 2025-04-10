@@ -3,3 +3,7 @@ Version: 1.0.0
 Date: 2025-04-10
   Features:
     - Initial Release
+    Version: 1.0.1
+Date: 2025-04-10
+  Features:
+    - 添加3个精炼配方在高级电炉
